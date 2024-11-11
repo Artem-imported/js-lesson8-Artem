@@ -1,1 +1,0 @@
-# js-lesson8-Artem
